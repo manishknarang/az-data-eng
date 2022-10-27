@@ -1,0 +1,8 @@
+[
+	{"cart_id":101,"product_id":[1,4,6],"amount":1098},
+	{"cart_id":102,"product_id":[3,2],"amount":258},
+	{"cart_id":103,"product_id":[3,4],"amount":455},
+	{"cart_id":104,"product_id":[1],"amount":203},
+	{"cart_id":105,"product_id":[6],"amount":205},
+	{"cart_id":106,"product_id":[3,3,2],"amount":699}
+]
